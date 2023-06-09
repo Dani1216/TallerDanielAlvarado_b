@@ -11,7 +11,7 @@ datos:
 Instalacion y configuracion de entorno de desarrollo
 
 ## funcionamiento 
-![](img/carro.jpg)
+![](img/Logo-LIGA-Blanco.png)
 
 
 
